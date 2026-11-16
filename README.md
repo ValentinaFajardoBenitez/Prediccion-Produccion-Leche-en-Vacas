@@ -2,7 +2,7 @@
 
 # 🐄 Predicción de la Producción de Leche en Vacas
 
-**Proyecto académico de Machine Learning | Fase 2**
+**Proyecto académico de Machine Learning **
 
 Desarrollo de modelos de aprendizaje automático para analizar y predecir la producción de leche en vacas.
 
