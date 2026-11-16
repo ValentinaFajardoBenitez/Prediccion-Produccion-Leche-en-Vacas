@@ -1,4 +1,4 @@
-![Banner del proyecto](assets/banner.png)
+![Banner del proyecto](assets/a_clean_high_contrast_infographic_banner_in_spani.png)
 
 # 🐄 Predicción de la Producción de Leche en Vacas
 
