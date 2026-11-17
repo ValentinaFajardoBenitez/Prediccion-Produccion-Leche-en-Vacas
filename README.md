@@ -120,6 +120,6 @@ Random Forest obtuvo el segundo mejor desempeño entre los tres modelos comparad
 - Ibeth Oriana Ruiz Manosalva.
 - Joel Antonio Castro Mora.
 
-## 📚 Fuente
+## Fuente
 
 Proyecto académico: Predicción de la producción de leche en vacas .
