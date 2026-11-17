@@ -60,15 +60,20 @@ También se analizaron los promedios de producción según raza y etapa de lacta
 
 ##  Modelos de regresión
 
-Se compararon tres algoritmos:
+Se compararon cuatro algoritmos:
 
+- Red Neuronal.
 - Random Forest Regressor.
 - Decision Tree Regressor.
 - Support Vector Regression (SVR).
 
-### Resultados del modelo seleccionado
 
-Random Forest obtuvo el mejor desempeño entre los tres modelos comparados.
+### Resultados de los modelos
+
+La Red Neuronal obtuvo el mejor desempeño entre los modelos comparados.
+Random Forest obtuvo el segundo mejor desempeño entre los tres modelos comparados.
+
+### Random Forest
 
 | Métrica | Resultado final |
 |---|---:|
@@ -82,25 +87,15 @@ Random Forest obtuvo el mejor desempeño entre los tres modelos comparados.
 - Desviación reportada: ± 0,044 L.
 - Particiones: 5.
 
-##  Experimentos complementarios
-
-### Clasificación
-
-Se categoriza la producción en tres niveles:
-
-- Baja.
-- Media.
-- Alta.
-
-Se compararon Gaussian Naive Bayes, Decision Tree, Random Forest y SVC con kernel RBF.
-
-Random Forest obtuvo el mejor resultado de clasificación, con un F1 macro de aproximadamente 0,6752 y una exactitud de 0,6791.
 
 ### Red neuronal
 
-Se implementó una red neuronal MLP utilizando Keras, con dos capas ocultas densas de 64 y 32 neuronas, y una salida de tres clases.
+| Métrica | Resultado final |
+|---|---:|
+| MAE | 2,56 L |
+| RMSE | 3,35 L |
+| R² | 0,666 |
 
-Se utilizó EarlyStopping para controlar el entrenamiento.
 
 ##  Tecnologías utilizadas
 
