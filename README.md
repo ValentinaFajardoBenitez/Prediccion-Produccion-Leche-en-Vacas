@@ -113,6 +113,8 @@ Random Forest obtuvo el segundo mejor desempeño entre los tres modelos comparad
 - `assets/`: imágenes y recursos gráficos.
 - `notebooks/`: cuadernos de Google Colab.
 - `README.md`: documentación del proyecto.
+- `Prediccion_Produccion_Leche_Explicada (1).pdf` : presentacion diapositivas
+
 
 ## 👥 Integrantes
 
