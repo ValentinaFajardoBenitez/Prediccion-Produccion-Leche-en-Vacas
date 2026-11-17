@@ -1,18 +1,18 @@
 ![Banner del proyecto](assets/a_clean_high_contrast_infographic_banner_in_spani.png)
 
-# 🐄 Predicción de la Producción de Leche en Vacas
+#  Predicción de la Producción de Leche en Vacas
 
-**Proyecto académico de Machine Learning **
+Proyecto académico de Machine Learning 
 
 Desarrollo de modelos de aprendizaje automático para analizar y predecir la producción de leche en vacas, utilizando características relacionadas con el animal, su alimentación y su entorno.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Estimar la cantidad de litros de leche que produce una vaca mediante modelos de Machine Learning.
 
 El problema principal es de **regresión**, con un experimento complementario de clasificación en tres niveles de producción: bajo, medio y alto.
 
-## 📊 Conjunto de datos
+## Conjunto de datos
 
 | Característica | Valor |
 |---|---:|
@@ -32,7 +32,7 @@ El problema principal es de **regresión**, con un experimento complementario de
 - Condiciones climáticas.
 - Características del manejo.
 
-## 🔍 Análisis exploratorio de datos
+##  Análisis exploratorio de datos
 
 Se realizaron procedimientos de auditoría, limpieza y exploración estadística.
 
@@ -50,7 +50,7 @@ La distribución presenta asimetría positiva, debido a la concentración de reg
 
 También se analizaron los promedios de producción según raza y etapa de lactancia.
 
-## ⚙️ Metodología
+##  Metodología
 
 - División de datos: 80 % entrenamiento y 20 % prueba.
 - Semilla aleatoria: 21.
@@ -58,7 +58,7 @@ También se analizaron los promedios de producción según raza y etapa de lacta
 - Imputación de valores faltantes mediante pipeline.
 - Exclusión de identificadores como predictores.
 
-## 🤖 Modelos de regresión
+##  Modelos de regresión
 
 Se compararon tres algoritmos:
 
@@ -82,7 +82,7 @@ Random Forest obtuvo el mejor desempeño entre los tres modelos comparados.
 - Desviación reportada: ± 0,044 L.
 - Particiones: 5.
 
-## 🧠 Experimentos complementarios
+##  Experimentos complementarios
 
 ### Clasificación
 
@@ -102,7 +102,7 @@ Se implementó una red neuronal MLP utilizando Keras, con dos capas ocultas dens
 
 Se utilizó EarlyStopping para controlar el entrenamiento.
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Python.
 - Google Colab.
@@ -113,11 +113,10 @@ Se utilizó EarlyStopping para controlar el entrenamiento.
 - Scikit-learn.
 - TensorFlow / Keras.
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 - `assets/`: imágenes y recursos gráficos.
 - `notebooks/`: cuadernos de Google Colab.
-- `resultados/`: gráficas y métricas.
 - `README.md`: documentación del proyecto.
 
 ## 👥 Integrantes
