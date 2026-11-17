@@ -1,6 +1,6 @@
 ![Banner del proyecto](assets/a_clean_high_contrast_infographic_banner_in_spani.png)
 
-# 🐄 Predicción de la Producción de Leche en Vacas
+#  Predicción de la Producción de Leche en Vacas
 
 Proyecto académico de Machine Learning 
 
@@ -12,7 +12,7 @@ Estimar la cantidad de litros de leche que produce una vaca mediante modelos de 
 
 El problema principal es de **regresión**, con un experimento complementario de clasificación en tres niveles de producción: bajo, medio y alto.
 
-## 📊 Conjunto de datos
+## Conjunto de datos
 
 | Característica | Valor |
 |---|---:|
